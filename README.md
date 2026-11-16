@@ -154,39 +154,43 @@ d. Fuelle
 
 Se encuentra dentro del compartimiento transparente ubicado debajo del módulo del sistema de respiración. Su función es almacenar y desplazar los gases durante la ventilación mecánica, permitiendo observar los movimientos correspondientes a los ciclos respiratorios.
 
+<img width="606" height="555" alt="image" src="https://github.com/user-attachments/assets/1fec74cb-2597-4374-8e05-ab0f391979d7" />
 
-
-[INSERTAR AQUÍ LA FOTOGRAFÍA 1: ESQUEMA DEL MANUAL]
 
 Fig. 1. Esquema de identificación de los componentes de la máquina de anestesia.
 
 La imagen presenta una representación general de la máquina de anestesia con sus componentes señalados mediante una numeración. Este esquema permite relacionar las partes descritas en el manual con su ubicación dentro del equipo y facilita el reconocimiento de los diferentes subsistemas.
 
-[INSERTAR AQUÍ LA FOTOGRAFÍA 2: VÁLVULA APL]
+<img width="613" height="753" alt="image" src="https://github.com/user-attachments/assets/a7d7ae2a-3165-45d8-ab6f-d3637567ef73" />
+
 
 Fig. 2. Válvula APL del sistema de respiración.
 
 Se observa el control giratorio de la válvula APL, identificado mediante una escala de presión en cmH₂O. Este elemento permite ajustar el límite de presión del circuito durante la ventilación manual y liberar el exceso de gases cuando se alcanza el valor establecido.
 
-[INSERTAR AQUÍ LA FOTOGRAFÍA 3: FUELLE]
+<img width="597" height="677" alt="image" src="https://github.com/user-attachments/assets/f4fde287-af11-446b-acdc-6fba639b21d7" />
+
 
 Fig. 3. Compartimiento del fuelle del sistema de ventilación.
 
 Se observa el compartimiento transparente que contiene el mecanismo del fuelle. Este componente permite almacenar y desplazar los gases durante la ventilación mecánica, facilitando el suministro de volumen al paciente y el seguimiento visual de los ciclos respiratorios.
 
-[INSERTAR AQUÍ LA FOTOGRAFÍA 4: RECIPIENTE ABSORBENTE]
+<img width="593" height="557" alt="image" src="https://github.com/user-attachments/assets/7b94e098-9f25-4364-938f-e53fc3e6d617" />
+
 
 Fig. 4. Recipiente absorbente de dióxido de carbono (CO₂).
 
 La imagen muestra el recipiente transparente que contiene el material absorbente encargado de eliminar el dióxido de carbono de los gases espirados. Su funcionamiento permite reutilizar parte de la mezcla gaseosa dentro del circuito de respiración.
 
-[INSERTAR AQUÍ LA FOTOGRAFÍA 5: PANEL DE GASES Y CAUDALÍMETROS]
+<img width="617" height="651" alt="image" src="https://github.com/user-attachments/assets/5f6d8ea2-a9db-45b7-87ac-7929bd0482d0" />
+
 
 Fig. 5. Panel de suministro de gases e indicadores de presión.
 
 Se identifica el panel de control de gases de la máquina, en el que se encuentran los caudalímetros correspondientes al aire, óxido nitroso y oxígeno, junto con sus respectivos controles. También se observan los indicadores de presión, que permiten supervisar las condiciones de suministro de los gases.
 
-[INSERTAR AQUÍ LA FOTOGRAFÍA 6: VISTA GENERAL DEL EQUIPO]
+<img width="617" height="701" alt="image" src="https://github.com/user-attachments/assets/788a14bb-9065-4ad4-86d1-e37e7c1b83f2" />
+
 
 Fig. 6. Vista general de la máquina de anestesia y del sistema de respiración manual.
 
